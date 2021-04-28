@@ -10,14 +10,12 @@ I'm currently studying computer science with a software concentration as well as
 
 I'm also interested in machine learning, web development, and data science.
 
-Outside of school, I like to play badminton, spikeball, and volleyball. I also enjoy playing piano and guitar (check out my instagram feed).
+Outside of school, I like to play badminton, spikeball, and volleyball. I also enjoy learning new pieces on piano and guitar (check out my instagram feed).
 
 This website exists for me to share my thoughts on anything that comes to mind, from the best poptart flavors to advice for students at my school.
 
-### More Information
+If you have any questions or just want to say hi, feel free to message me on any of my socials! I'm always down to chat and I'll try to get back to you as soon as possible.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Contact Me
 
 [jung.d@northeastern.edu](mailto:jung.d@northeastern.edu)
