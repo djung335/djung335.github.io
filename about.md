@@ -10,7 +10,9 @@ I'm currently studying computer science with a software concentration as well as
 
 I'm also interested in machine learning, web development, and data science.
 
-Outside of the classroom, I like to play piano and guitar. I also enjoy playing badminton and volleyball.
+Outside of school, I like to play badminton, spikeball, and volleyball. I also enjoy playing piano and guitar (check out my instagram feed).
+
+This website exists for me to share my thoughts on anything that comes to mind, from the best poptart flavors to advice for students at my school.
 
 ### More Information
 
